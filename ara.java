@@ -1,0 +1,6 @@
+class ara{
+
+void ara {
+  }
+
+}
